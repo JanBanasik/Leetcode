@@ -8,6 +8,9 @@ class Solution:
         score: int = 0
 
         for _ in range(k):
-            score -= heapq.heappushpop(nums, math.floor(nums[0] / 3))
+            currVal = -heapq.heappop(nums)
+            score += currVal
+            currVal = math.ceil(currVal / 3)
+            heapq.heappush(nums, -currVal)
         
         return score
