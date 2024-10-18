@@ -3,19 +3,15 @@ class Solution:
         maxOR = 0
         for value in nums:
             maxOR |= value
+
+        n = len(nums)
+        counter = 0
         
-        counter = [0]
-        self.backtrack(0, maxOR, nums, 0, counter)
-
-        return counter[0]
-
-    def backtrack(self, currOR, maxOR, nums, index, counter):
-        if index == len(nums):
-            return
-        copyOR = currOR
-        currOR |= nums[index]
-        if currOR == maxOR:
-            counter[0] +=1
-
-        self.backtrack(copyOR, maxOR, nums, index + 1, counter)
-        self.backtrack(currOR, maxOR, nums, index + 1, counter)
+        for subset in range(1 << n):
+            currOR = 0
+            for i in range(n):
+                if subset & (1 << i):
+                    currOR |= nums[i]
+            if currOR == maxOR:
+                counter +=1
+        return counter
