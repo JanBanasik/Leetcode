@@ -6,7 +6,7 @@ class Solution:
 
         n = len(nums)
         counter = 0
-        
+
         for subset in range(1 << n):
             currOR = 0
             for i in range(n):
@@ -14,4 +14,5 @@ class Solution:
                     currOR |= nums[i]
             if currOR == maxOR:
                 counter +=1
+                
         return counter
