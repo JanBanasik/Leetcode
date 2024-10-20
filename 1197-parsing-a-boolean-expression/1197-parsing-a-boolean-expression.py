@@ -1,29 +1,34 @@
 class Solution:
     def parseBoolExpr(self, expression: str) -> bool:
-        hashmap = {}
-        stack = []
-        for index, value in enumerate(expression):
-            if value == '(':
-                stack.append(index)
-            else:
-                hashmap[index] = stack.pop(-1)
+        operands: list[int] = []
+        values: list[int] = []
+        functions = {"&": self.parseAnd, "|": self.parseOr, "!": self.parseNot}
+        for value in expression:
+            if value in ["!", "&", "|"]:
+                operands.append(value)
+            elif value in ["t", "f"]:
+                values.append(True if value == "t" else False)
+            elif value == "(":
+                values.append("(")
+            elif value == ")":
+                functions[operands.pop(-1)](values)
+        return values[0]
         
-        tab = {"|": self.parse_or, "&": self.parse_and, "!": self.parse_not}
-        
-        return self.helper(expression, index, hashmap, tab)
+    def parseAnd(self, values):
+        expr = True
+        while (curr := values.pop(-1)) != "(":
+            expr = expr and curr
+        values.append(expr)
     
-    def parse(self, expression, index, hashmap, tab):
-        return tab[expression[index]](expression, index + 1, hashmap, tab)
-
-    def parse_or(self, expression ,index, hashmap, tab):
-        v = expression[index : hashmap[index] + 1].split(",")
-        for val in v:
-            if val
-
-
-    def parse_and(self, expression ,index, hashmap, tab):
+    def parseOr(self, values):
+        expr = False
+        while (curr := values.pop(-1)) != "(":
+            expr = expr or curr
+        values.append(expr)
+    
+    def parseNot(self, values):
+        values.append(not values.pop(-1))
+        values.pop(-2)
     
 
-    def parse_not(self, expression ,index, hashmap, tab):
-
-        
+    
