@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/JanBanasik/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/JanBanasik/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/JanBanasik/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/JanBanasik/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -106,4 +107,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1197-parsing-a-boolean-expression](https://github.com/JanBanasik/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
+## Tree
+|  |
+| ------- |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/JanBanasik/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/JanBanasik/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/JanBanasik/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 <!---LeetCode Topics End-->
