@@ -6,11 +6,10 @@
 #         self.right = right
 class Solution:
     def flipEquiv(self, root1: Optional[TreeNode], root2: Optional[TreeNode]) -> bool:
-        copied = root1
         if ((val := self.checkRoots(root1, root2)) > -1):
             return bool(val)
-
         return self.check(root1, root2)
+
     def checkRoots(self, root1, root2) -> int:
         if root1 is None and root2 is None:
             return 1
