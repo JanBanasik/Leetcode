@@ -18,7 +18,6 @@ class Solution:
             ixInList = bisect_left(sorted_root_valsByHeightOfSubtree[index],value, key = lambda x: x[1])
             sorted_root_valsByHeightOfSubtree[index].insert(ixInList, (key, value))
         
-        print(sorted_root_valsByHeightOfSubtree)
         result: list[int] = list()
         for query in queries:
             result.append(self.calculateMaxHeightAfterDeletion(sorted_root_valsByHeightOfSubtree, rootValLevelDict, query))
