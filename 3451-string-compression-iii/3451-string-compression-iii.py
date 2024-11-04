@@ -11,7 +11,6 @@ class Solution:
                 if temp[-1] != word[j]:
                     break
             i += len(temp)
-            
             result += str(len(temp)) + temp[0]
         return result
             
