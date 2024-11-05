@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/JanBanasik/Leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/JanBanasik/Leetcode/tree/master/0027-remove-element) |
+| [0054-spiral-matrix](https://github.com/JanBanasik/Leetcode/tree/master/0054-spiral-matrix) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/JanBanasik/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/JanBanasik/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/JanBanasik/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/JanBanasik/Leetcode/tree/master/0054-spiral-matrix) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/JanBanasik/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Stack
 |  |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/JanBanasik/Leetcode/tree/master/0054-spiral-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/JanBanasik/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/JanBanasik/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Binary Search
