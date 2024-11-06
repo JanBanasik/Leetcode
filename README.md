@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/JanBanasik/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/JanBanasik/Leetcode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/JanBanasik/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3291-find-if-array-can-be-sorted](https://github.com/JanBanasik/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-minimum-total-distance-traveled](https://github.com/JanBanasik/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/JanBanasik/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/JanBanasik/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3291-find-if-array-can-be-sorted](https://github.com/JanBanasik/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/JanBanasik/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3291-find-if-array-can-be-sorted](https://github.com/JanBanasik/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Enumeration
 |  |
 | ------- |
