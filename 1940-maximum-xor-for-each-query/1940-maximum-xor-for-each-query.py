@@ -7,5 +7,5 @@ class Solution:
         answer = []
         for i in range(n):
             answer.append(s ^ (2 ** maximumBit - 1))
-            s ^= nums.pop(-1)
+            s ^= nums[n - i - 1]
         return answer
