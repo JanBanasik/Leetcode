@@ -19,6 +19,5 @@ class Solution:
         return res
     
     def znajdz_indeks(self, pierwsze_elementy, target):
-        
         indeks = bisect_right(pierwsze_elementy, target) - 1
         return indeks if indeks >= 0 else None
