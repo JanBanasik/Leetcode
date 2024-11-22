@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/JanBanasik/Leetcode/tree/master/0054-spiral-matrix) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/JanBanasik/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JanBanasik/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/JanBanasik/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/JanBanasik/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/JanBanasik/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/JanBanasik/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/JanBanasik/Leetcode/tree/master/0001-two-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/JanBanasik/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/JanBanasik/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/JanBanasik/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/JanBanasik/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/JanBanasik/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/JanBanasik/Leetcode/tree/master/0054-spiral-matrix) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/JanBanasik/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/JanBanasik/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/JanBanasik/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/JanBanasik/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
