@@ -10,8 +10,11 @@ class Solution:
         dq = deque()
         dq.append((0, 0))
         dist[0][0] = grid[0][0]
+        
         while dq:
             x, y = dq.popleft()
+            if x == m - 1 and y == n - 1:
+                return dist[m - 1][n - 1]
             for a, b in directions:
                 nx, ny = x + a, y + b
                 if (0 <= nx < m) and (0 <= ny < n):
@@ -22,4 +25,5 @@ class Solution:
                             dq.appendleft((nx,ny))
                         else:
                             dq.append((nx,ny))
-        return dist[m - 1][n - 1] 
+
+        
