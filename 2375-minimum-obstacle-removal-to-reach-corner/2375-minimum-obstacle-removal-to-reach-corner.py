@@ -5,22 +5,21 @@ class Solution:
     def zero_one_bfs(self, grid):
         m = len(grid)
         n = len(grid[0])
-        newGrid = [[float('inf') for _ in range(n)] for _ in range(m)]
+        dist = [[float('inf') for _ in range(n)] for _ in range(m)]
         directions = [(-1, 0), (1, 0), (0, 1), (0, -1)]
         dq = deque()
         dq.append((0, 0))
-        newGrid[0][0] = grid[0][0]
+        dist[0][0] = grid[0][0]
         while dq:
             x, y = dq.popleft()
-
             for a, b in directions:
-                if x + a >= m or x + a < 0 or y + b >= n or y + b < 0:
-                    continue
-                newCost = newGrid[x][y] + grid[x + a][y + b]
-                if newCost < newGrid[x + a][y + b]:
-                    newGrid[x + a][y + b] = newCost
-                    if grid[x + a][y + b] == 0:
-                        dq.appendleft((x+a,y+b))
-                    else:
-                        dq.append((x+a,y+b))
-        return newGrid[m - 1][n - 1] 
+                nx, ny = x + a, y + b
+                if (0 <= nx < m) and (0 <= ny < n):
+                    newCost = dist[x][y] + grid[nx][ny]
+                    if newCost < dist[nx][ny]:
+                        dist[nx][ny] = newCost
+                        if grid[nx][ny] == 0:
+                            dq.appendleft((nx,ny))
+                        else:
+                            dq.append((nx,ny))
+        return dist[m - 1][n - 1] 
