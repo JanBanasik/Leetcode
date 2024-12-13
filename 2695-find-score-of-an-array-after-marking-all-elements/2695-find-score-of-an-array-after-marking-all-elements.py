@@ -1,13 +1,15 @@
 class Solution:
     def findScore(self, nums: List[int]) -> int:
-        tab = sorted([(val, index) for index, val in enumerate(nums)], key = lambda x: (x[0], x[1]))
+        heap = []
+        n = len(nums)
         marked = set()
-        n = len(tab)
         score = 0
-        for i in range(0, n):
-            value, index = tab[i]
+        for index, value in enumerate(nums):
+            heapq.heappush(heap, (value, index))
+        while heap:
+            value, index = heapq.heappop(heap)
             if index not in marked:
                 score += value
                 for k in range(-1, 2):
-                    marked.add(index  + k)
+                    marked.add(index + k)
         return score
