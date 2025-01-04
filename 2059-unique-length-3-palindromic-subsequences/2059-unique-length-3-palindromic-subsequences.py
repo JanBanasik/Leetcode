@@ -1,24 +1,15 @@
-from math import factorial
 class Solution:
     def countPalindromicSubsequence(self, s: str) -> int:
-        counters = defaultdict(int)
+        first = [-1] * 26
+        last = [-1] * 26
+        for i in range(len(s)):
+            ix = ord(s[i]) - ord("a")
+            first[ix] = i if first[ix] == -1 else first[ix]
+            last[ix] = i
+        
         result: int = 0
-        for c in s:
-            counters[c] +=1
-        
-        for key, value in counters.items():
-            result += 1 if value >= 3 else 0
-        
-        lastPositions: dict[str, int] = dict()
-        used = defaultdict(set)
-
-        for index, value in enumerate(s):
-            if value in lastPositions:
-                for i in range(lastPositions[value] + 1, index):
-                    if s[i] not in used[value]:
-                        used[value].add(s[i])
-                        result +=1
-                
-            lastPositions[value] = index
-        
+        for i in range(26):
+            if first[i] == -1 or first[i] == last[i]:
+                continue
+            result += len(set(s[first[i]+1:last[i]]))
         return result
