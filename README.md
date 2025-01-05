@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1664-find-users-with-valid-e-mails](https://github.com/JanBanasik/Leetcode/tree/master/1664-find-users-with-valid-e-mails) |
 | [1811-fix-names-in-a-table](https://github.com/JanBanasik/Leetcode/tree/master/1811-fix-names-in-a-table) |
 | [1827-invalid-tweets](https://github.com/JanBanasik/Leetcode/tree/master/1827-invalid-tweets) |
+| [1892-find-total-time-spent-by-each-employee](https://github.com/JanBanasik/Leetcode/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/JanBanasik/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [1948-rearrange-products-table](https://github.com/JanBanasik/Leetcode/tree/master/1948-rearrange-products-table) |
 | [2024-calculate-special-bonus](https://github.com/JanBanasik/Leetcode/tree/master/2024-calculate-special-bonus) |
