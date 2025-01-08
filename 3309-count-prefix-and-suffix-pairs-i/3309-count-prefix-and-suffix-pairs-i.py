@@ -9,4 +9,4 @@ class Solution:
         return counter
     
     def isPrefixAndSuffix(self, string1: str, string2: str):
-        return string2.startswith(string1) and string2[::-1].startswith(string1[::-1])
+        return string2.startswith(string1) and string2.endswith(string1)
