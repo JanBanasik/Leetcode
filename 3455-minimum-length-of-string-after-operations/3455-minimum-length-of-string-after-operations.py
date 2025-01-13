@@ -6,11 +6,8 @@ class Solution:
 
         result: int = 0
         for key, value in hashmap.items():
-            if value >= 3:
-                if value % 2 == 1:
-                    result += 1 
-                else:
-                    result += 2
+            if value % 2 == 1:
+                result += 1 
             else:
-                result += value
+                result += 2
         return result
