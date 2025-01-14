@@ -12,7 +12,7 @@ class Solution:
                     result[index] +=1
                 if valueB in setA:
                     result[index] +=1
-            setA.add(valueA)
-            setB.add(valueB)
+                setA.add(valueA)
+                setB.add(valueB)
             
         return result
