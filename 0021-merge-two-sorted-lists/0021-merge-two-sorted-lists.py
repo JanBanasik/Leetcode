@@ -15,14 +15,8 @@ class Solution:
                 current.next = ListNode(list2.val)
                 list2 = list2.next
             current = current.next
-        while list1:
-            current.next = ListNode(list1.val)
-            list1 = list1.next
-            current = current.next
+        current.next = list1 if list1 else list2             
+
         
-        while list2:
-            current.next = ListNode(list2.val)
-            list2 = list2.next
-            current = current.next
 
         return result.next
