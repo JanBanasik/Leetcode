@@ -9,9 +9,6 @@ class Solution:
         for node in range(numCourses):
             self.dfs(node, mat, res)
         
-        for i in res:
-            print(i)
-
         return [res[a][b] for a, b in queries]
     def dfs(self, node, mat, res):
         visited = set()
