@@ -10,11 +10,9 @@ class NumberContainers:
     def change(self, index: int, number: int) -> None:
         if index in self.indexNumberMap:
             self.numberIndicesMap[self.indexNumberMap[index]].remove(index)
-            self.indexNumberMap[index] = number
-            self.numberIndicesMap[number].add(index)
-        else:
-            self.indexNumberMap[index] = number
-            self.numberIndicesMap[number].add(index)
+        
+        self.indexNumberMap[index] = number
+        self.numberIndicesMap[number].add(index)
 
     def find(self, number: int) -> int:
         res = self.numberIndicesMap[number]
