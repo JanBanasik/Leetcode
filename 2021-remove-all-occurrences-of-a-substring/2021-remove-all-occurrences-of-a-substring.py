@@ -1,18 +1,8 @@
 class Solution:
     def removeOccurrences(self, s: str, part: str) -> str:
-        n = len(s)
-        partLength = len(part)
-        i = 0
-        while i < len(s) - partLength + 1:
-            if s[i:i+partLength] == part:
-                newString = s[0:i] + s[i+partLength:]
-                s = newString[:]
-                i = i - partLength
-            
-            i +=1
+        while part in s:
+            s = s.replace(part, "", 1)
         return s
-
-
             
             
             
