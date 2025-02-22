@@ -7,14 +7,11 @@
 class Solution:
     index = 0
     def recoverFromPreorder(self, traversal: str) -> Optional[TreeNode]:
-        try:
-            index = traversal.index('-')
-        except ValueError:
-            return TreeNode(int(traversal))
-        roots = [(0, int(traversal[0:index]))]
+
+        roots = []
         dashes = 0
         number = ""
-        for val in traversal[index::]:
+        for val in traversal:
             if val == '-':
                 if not number:
                     dashes +=1
