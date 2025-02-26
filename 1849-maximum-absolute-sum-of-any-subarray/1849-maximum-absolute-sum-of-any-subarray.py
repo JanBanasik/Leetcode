@@ -14,9 +14,9 @@ class Solution:
     
     def kadane2(self, nums):
         currS = 0
-        result = float('inf')
+        result = 0
         for num in nums:
             currS += num
-            result = min(currS, result)
+            result = max(abs(currS), result)
             if currS > 0: currS = 0
-        return abs(result)
+        return result
