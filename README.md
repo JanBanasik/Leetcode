@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0670-maximum-swap](https://github.com/JanBanasik/Leetcode/tree/master/0670-maximum-swap) |
 | [2448-count-number-of-bad-pairs](https://github.com/JanBanasik/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [2649-count-total-number-of-colored-cells](https://github.com/JanBanasik/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/JanBanasik/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/JanBanasik/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Design
