@@ -9,6 +9,5 @@ class Solution:
                 minBlocks = min(minBlocks, whiteCount)
                 whiteCount -= 1 if blocks[l] == "W" else 0
                 l +=1
-        print(l, r)
         return minBlocks
         
