@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/JanBanasik/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/JanBanasik/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/JanBanasik/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/JanBanasik/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/JanBanasik/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/JanBanasik/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/JanBanasik/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/JanBanasik/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Two Pointers
 |  |
 | ------- |
