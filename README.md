@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/JanBanasik/Leetcode/tree/master/0038-count-and-say) |
 | [0399-evaluate-division](https://github.com/JanBanasik/Leetcode/tree/master/0399-evaluate-division) |
 | [0768-partition-labels](https://github.com/JanBanasik/Leetcode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/JanBanasik/Leetcode/tree/master/0812-rotate-string) |
