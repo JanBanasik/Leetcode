@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/JanBanasik/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/JanBanasik/Leetcode/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/JanBanasik/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/JanBanasik/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/JanBanasik/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/JanBanasik/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/JanBanasik/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/JanBanasik/Leetcode/tree/master/0670-maximum-swap) |
 | [0768-partition-labels](https://github.com/JanBanasik/Leetcode/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/JanBanasik/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/JanBanasik/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1304-longest-happy-string](https://github.com/JanBanasik/Leetcode/tree/master/1304-longest-happy-string) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/JanBanasik/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1502-construct-k-palindrome-strings](https://github.com/JanBanasik/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
