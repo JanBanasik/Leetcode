@@ -5,9 +5,8 @@ class Solution {
         int n = moveTime.length;
         int m = moveTime[0].length;
 
-        // PriorityQueue holds {x, y, currentTime, parityFlag}
         PriorityQueue<int[]> pq = new PriorityQueue<>(Comparator.comparingInt(a -> a[2]));
-        pq.offer(new int[]{0, 0, 0, 0}); // Start at (0,0), time 0, even step
+        pq.offer(new int[]{0, 0, 0, 0});
 
         boolean[][] visited = new boolean[n][m];
 
@@ -30,6 +29,6 @@ class Solution {
                 }
             }
         }
-        return -1; // Not reachable
+        return -1;
     }
 }
