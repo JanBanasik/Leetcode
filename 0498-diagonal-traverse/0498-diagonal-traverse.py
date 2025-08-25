@@ -12,16 +12,15 @@ class Solution:
             up = not up
         return result    
     
-    def addValues(self, startX, startY, result, up, m, n, mat):
+    def addValues(self, x, y, result, up, m, n, mat):
 
         dx, dy = (-1, 1) if up else (1, -1)
-        while True:
-            result.append(mat[startX][startY])
-            if (0<=(nx:=startX+dx)<m) and (0<=(ny:=startY+dy)<n):
-                startX = nx; startY=ny
-            else:
-                break
-        return startX, startY
+        while 0 <= x < m and 0 <= y < n:
+            result.append(mat[x][y])
+            x, y = x + dx, y + dy
+        
+        x -=dx; y-=dy
+        return x, y
     
     def moveCoords(self, x, y, up, m, n):
         if up:
