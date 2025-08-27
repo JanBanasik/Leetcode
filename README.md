@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-zero-array-transformation-i](https://github.com/JanBanasik/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/JanBanasik/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/JanBanasik/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/JanBanasik/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/JanBanasik/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/JanBanasik/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Hash Table
@@ -563,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/JanBanasik/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/JanBanasik/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/JanBanasik/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/JanBanasik/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Matrix
 |  |
 | ------- |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/JanBanasik/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/JanBanasik/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/JanBanasik/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/JanBanasik/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Binary Search
 |  |
 | ------- |
@@ -738,4 +741,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/JanBanasik/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/JanBanasik/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 <!---LeetCode Topics End-->
