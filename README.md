@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/JanBanasik/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/JanBanasik/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/JanBanasik/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3678-design-task-manager](https://github.com/JanBanasik/Leetcode/tree/master/3678-design-task-manager) |
 ## Two Pointers
 |  |
 | ------- |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/JanBanasik/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/JanBanasik/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/JanBanasik/Leetcode/tree/master/3647-zero-array-transformation-iii) |
+| [3678-design-task-manager](https://github.com/JanBanasik/Leetcode/tree/master/3678-design-task-manager) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/JanBanasik/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2429-design-a-food-rating-system](https://github.com/JanBanasik/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/JanBanasik/Leetcode/tree/master/2434-design-a-number-container-system) |
+| [3678-design-task-manager](https://github.com/JanBanasik/Leetcode/tree/master/3678-design-task-manager) |
 ## Data Stream
 |  |
 | ------- |
@@ -715,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/JanBanasik/Leetcode/tree/master/2429-design-a-food-rating-system) |
 | [2434-design-a-number-container-system](https://github.com/JanBanasik/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/JanBanasik/Leetcode/tree/master/2868-continuous-subarrays) |
+| [3678-design-task-manager](https://github.com/JanBanasik/Leetcode/tree/master/3678-design-task-manager) |
 ## Binary Indexed Tree
 |  |
 | ------- |
