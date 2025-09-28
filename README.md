@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/JanBanasik/Leetcode/tree/master/0952-word-subsets) |
 | [0967-minimum-falling-path-sum](https://github.com/JanBanasik/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1006-vowel-spellchecker](https://github.com/JanBanasik/Leetcode/tree/master/1006-vowel-spellchecker) |
+| [1018-largest-perimeter-triangle](https://github.com/JanBanasik/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1025-minimum-cost-for-tickets](https://github.com/JanBanasik/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/JanBanasik/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1063-best-sightseeing-pair](https://github.com/JanBanasik/Leetcode/tree/master/1063-best-sightseeing-pair) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/JanBanasik/Leetcode/tree/master/0670-maximum-swap) |
 | [0768-partition-labels](https://github.com/JanBanasik/Leetcode/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/JanBanasik/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [1018-largest-perimeter-triangle](https://github.com/JanBanasik/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/JanBanasik/Leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1304-longest-happy-string](https://github.com/JanBanasik/Leetcode/tree/master/1304-longest-happy-string) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/JanBanasik/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/JanBanasik/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/JanBanasik/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0780-max-chunks-to-make-sorted](https://github.com/JanBanasik/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [1018-largest-perimeter-triangle](https://github.com/JanBanasik/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/JanBanasik/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/JanBanasik/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/JanBanasik/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/JanBanasik/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0670-maximum-swap](https://github.com/JanBanasik/Leetcode/tree/master/0670-maximum-swap) |
+| [1018-largest-perimeter-triangle](https://github.com/JanBanasik/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/JanBanasik/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/JanBanasik/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/JanBanasik/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
