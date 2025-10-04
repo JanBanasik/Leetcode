@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/JanBanasik/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/JanBanasik/Leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/JanBanasik/Leetcode/tree/master/0027-remove-element) |
 | [0041-first-missing-positive](https://github.com/JanBanasik/Leetcode/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/JanBanasik/Leetcode/tree/master/0051-n-queens) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/JanBanasik/Leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/JanBanasik/Leetcode/tree/master/0027-remove-element) |
 | [0165-compare-version-numbers](https://github.com/JanBanasik/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0295-find-median-from-data-stream](https://github.com/JanBanasik/Leetcode/tree/master/0295-find-median-from-data-stream) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/JanBanasik/Leetcode/tree/master/0011-container-with-most-water) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/JanBanasik/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/JanBanasik/Leetcode/tree/master/0670-maximum-swap) |
 | [0768-partition-labels](https://github.com/JanBanasik/Leetcode/tree/master/0768-partition-labels) |
