@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/JanBanasik/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/JanBanasik/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/JanBanasik/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/JanBanasik/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/JanBanasik/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Math
 |  |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/JanBanasik/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/JanBanasik/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/JanBanasik/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/JanBanasik/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/JanBanasik/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Design
 |  |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3447-clear-digits](https://github.com/JanBanasik/Leetcode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/JanBanasik/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/JanBanasik/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/JanBanasik/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Stack
 |  |
 | ------- |
@@ -710,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/JanBanasik/Leetcode/tree/master/2716-prime-subtraction-operation) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/JanBanasik/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -815,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3201-distribute-candies-among-children-ii](https://github.com/JanBanasik/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/JanBanasik/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/JanBanasik/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Memoization
 |  |
