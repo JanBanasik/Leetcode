@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/JanBanasik/Leetcode/tree/master/0670-maximum-swap) |
 | [1018-largest-perimeter-triangle](https://github.com/JanBanasik/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/JanBanasik/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/JanBanasik/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/JanBanasik/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/JanBanasik/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2649-count-total-number-of-colored-cells](https://github.com/JanBanasik/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
