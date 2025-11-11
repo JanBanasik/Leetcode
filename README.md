@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/JanBanasik/Leetcode/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/JanBanasik/Leetcode/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/JanBanasik/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0474-ones-and-zeroes](https://github.com/JanBanasik/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0498-diagonal-traverse](https://github.com/JanBanasik/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/JanBanasik/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/JanBanasik/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/JanBanasik/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/JanBanasik/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0399-evaluate-division](https://github.com/JanBanasik/Leetcode/tree/master/0399-evaluate-division) |
+| [0474-ones-and-zeroes](https://github.com/JanBanasik/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0768-partition-labels](https://github.com/JanBanasik/Leetcode/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/JanBanasik/Leetcode/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/JanBanasik/Leetcode/tree/master/0952-word-subsets) |
@@ -625,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0120-triangle](https://github.com/JanBanasik/Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/JanBanasik/Leetcode/tree/master/0198-house-robber) |
+| [0474-ones-and-zeroes](https://github.com/JanBanasik/Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/JanBanasik/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/JanBanasik/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0967-minimum-falling-path-sum](https://github.com/JanBanasik/Leetcode/tree/master/0967-minimum-falling-path-sum) |
