@@ -6,7 +6,8 @@ class Solution:
         if high % 2 == 0:
             high -=1
         
-        between = (high - low - 1)
-
-        return 2 + between // 2
+        if low > high:
+            return 0
+        
+        return (high - low) // 2 + 1
         
