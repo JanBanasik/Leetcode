@@ -26,7 +26,6 @@ class Solution:
                 if counter == 2 or counter == 0:
                     p +=1
         res = 1
-        print(plants)
         for i in plants:
             res *= i
         return res % mod
