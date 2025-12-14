@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/JanBanasik/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/JanBanasik/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2107-find-unique-binary-string](https://github.com/JanBanasik/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/JanBanasik/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2232-adding-spaces-to-a-string](https://github.com/JanBanasik/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/JanBanasik/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/JanBanasik/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/JanBanasik/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/JanBanasik/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/JanBanasik/Leetcode/tree/master/1925-count-square-sum-triples) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/JanBanasik/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/JanBanasik/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/JanBanasik/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2649-count-total-number-of-colored-cells](https://github.com/JanBanasik/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
@@ -658,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/JanBanasik/Leetcode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/JanBanasik/Leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/JanBanasik/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/JanBanasik/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/JanBanasik/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/JanBanasik/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/JanBanasik/Leetcode/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
