@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/JanBanasik/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/JanBanasik/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/JanBanasik/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1390-four-divisors](https://github.com/JanBanasik/Leetcode/tree/master/1390-four-divisors) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/JanBanasik/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/JanBanasik/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/JanBanasik/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/JanBanasik/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0670-maximum-swap](https://github.com/JanBanasik/Leetcode/tree/master/0670-maximum-swap) |
 | [1018-largest-perimeter-triangle](https://github.com/JanBanasik/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1390-four-divisors](https://github.com/JanBanasik/Leetcode/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/JanBanasik/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/JanBanasik/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/JanBanasik/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
