@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/JanBanasik/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0756-pyramid-transition-matrix](https://github.com/JanBanasik/Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [0768-partition-labels](https://github.com/JanBanasik/Leetcode/tree/master/0768-partition-labels) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/JanBanasik/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/JanBanasik/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/JanBanasik/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/JanBanasik/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -585,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/JanBanasik/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/JanBanasik/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/JanBanasik/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/JanBanasik/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/JanBanasik/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -612,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/JanBanasik/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/JanBanasik/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/JanBanasik/Leetcode/tree/master/0854-making-a-large-island) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/JanBanasik/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0945-snakes-and-ladders](https://github.com/JanBanasik/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/JanBanasik/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1558-course-schedule-iv](https://github.com/JanBanasik/Leetcode/tree/master/1558-course-schedule-iv) |
@@ -636,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/JanBanasik/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/JanBanasik/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/JanBanasik/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/JanBanasik/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/JanBanasik/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -654,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/JanBanasik/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0820-find-eventual-safe-states](https://github.com/JanBanasik/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/JanBanasik/Leetcode/tree/master/0854-making-a-large-island) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/JanBanasik/Leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0988-flip-equivalent-binary-trees](https://github.com/JanBanasik/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/JanBanasik/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/JanBanasik/Leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
