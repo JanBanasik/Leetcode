@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/JanBanasik/Leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/JanBanasik/Leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/JanBanasik/Leetcode/tree/master/0066-plus-one) |
+| [0085-maximal-rectangle](https://github.com/JanBanasik/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/JanBanasik/Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/JanBanasik/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/JanBanasik/Leetcode/tree/master/0200-number-of-islands) |
@@ -575,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/JanBanasik/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0780-max-chunks-to-make-sorted](https://github.com/JanBanasik/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1197-parsing-a-boolean-expression](https://github.com/JanBanasik/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/JanBanasik/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -689,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/JanBanasik/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/JanBanasik/Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/JanBanasik/Leetcode/tree/master/0198-house-robber) |
 | [0474-ones-and-zeroes](https://github.com/JanBanasik/Leetcode/tree/master/0474-ones-and-zeroes) |
@@ -724,6 +727,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/JanBanasik/Leetcode/tree/master/0054-spiral-matrix) |
+| [0085-maximal-rectangle](https://github.com/JanBanasik/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/JanBanasik/Leetcode/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/JanBanasik/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/JanBanasik/Leetcode/tree/master/0498-diagonal-traverse) |
@@ -805,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/JanBanasik/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0780-max-chunks-to-make-sorted](https://github.com/JanBanasik/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/JanBanasik/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/JanBanasik/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
