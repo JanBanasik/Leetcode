@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/JanBanasik/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/JanBanasik/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/JanBanasik/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1266-minimum-time-visiting-all-points](https://github.com/JanBanasik/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/JanBanasik/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/JanBanasik/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1390-four-divisors](https://github.com/JanBanasik/Leetcode/tree/master/1390-four-divisors) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/JanBanasik/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0670-maximum-swap](https://github.com/JanBanasik/Leetcode/tree/master/0670-maximum-swap) |
 | [1018-largest-perimeter-triangle](https://github.com/JanBanasik/Leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1266-minimum-time-visiting-all-points](https://github.com/JanBanasik/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/JanBanasik/Leetcode/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/JanBanasik/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/JanBanasik/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -928,6 +930,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/JanBanasik/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/JanBanasik/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 ## Bitmask
 |  |
