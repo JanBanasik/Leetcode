@@ -466,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/JanBanasik/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/JanBanasik/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/JanBanasik/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/JanBanasik/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2107-find-unique-binary-string](https://github.com/JanBanasik/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/JanBanasik/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2232-adding-spaces-to-a-string](https://github.com/JanBanasik/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
@@ -597,6 +598,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/JanBanasik/Leetcode/tree/master/0498-diagonal-traverse) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/JanBanasik/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/JanBanasik/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2075-decode-the-slanted-ciphertext](https://github.com/JanBanasik/Leetcode/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2232-adding-spaces-to-a-string](https://github.com/JanBanasik/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/JanBanasik/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2402-meeting-rooms-iii](https://github.com/JanBanasik/Leetcode/tree/master/2402-meeting-rooms-iii) |
