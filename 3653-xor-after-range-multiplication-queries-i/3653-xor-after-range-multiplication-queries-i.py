@@ -8,5 +8,4 @@ class Solution:
         for l, r, k, v in queries:
             for i in range(l, r + 1, k):
                 nums[i] = (nums[i] * v) % mod
-                
         return reduce(xor, nums, result)
