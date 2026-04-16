@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/JanBanasik/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/JanBanasik/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/JanBanasik/Leetcode/tree/master/3483-alternating-groups-ii) |
+| [3488-closest-equal-element-queries](https://github.com/JanBanasik/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/JanBanasik/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/JanBanasik/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/JanBanasik/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/JanBanasik/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/JanBanasik/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/JanBanasik/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3488-closest-equal-element-queries](https://github.com/JanBanasik/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/JanBanasik/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/JanBanasik/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3606-coupon-code-validator](https://github.com/JanBanasik/Leetcode/tree/master/3606-coupon-code-validator) |
@@ -836,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/JanBanasik/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/JanBanasik/Leetcode/tree/master/3427-special-array-ii) |
 | [3453-separate-squares-i](https://github.com/JanBanasik/Leetcode/tree/master/3453-separate-squares-i) |
+| [3488-closest-equal-element-queries](https://github.com/JanBanasik/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/JanBanasik/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## String Matching
 |  |
