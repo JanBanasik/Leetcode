@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/JanBanasik/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/JanBanasik/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/JanBanasik/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/JanBanasik/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/JanBanasik/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/JanBanasik/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/JanBanasik/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -769,6 +770,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-minimum-total-distance-traveled](https://github.com/JanBanasik/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/JanBanasik/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [2586-longest-square-streak-in-an-array](https://github.com/JanBanasik/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/JanBanasik/Leetcode/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/JanBanasik/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/JanBanasik/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/JanBanasik/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
