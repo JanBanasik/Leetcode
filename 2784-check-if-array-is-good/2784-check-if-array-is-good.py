@@ -5,7 +5,8 @@ class Solution:
         double_last: bool = False
 
         for num in nums:
+            if num not in numbers and num == (n - 1):
+                double_last = True
             numbers.discard(num)
             
-        
-        return not numbers and nums.count(n - 1) == 2
+        return not numbers and double_last
