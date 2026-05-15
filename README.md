@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/JanBanasik/Leetcode/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/JanBanasik/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/JanBanasik/Leetcode/tree/master/0120-triangle) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/JanBanasik/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0198-house-robber](https://github.com/JanBanasik/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/JanBanasik/Leetcode/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/JanBanasik/Leetcode/tree/master/0399-evaluate-division) |
@@ -827,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/JanBanasik/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0794-swim-in-rising-water](https://github.com/JanBanasik/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JanBanasik/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/JanBanasik/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
