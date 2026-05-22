@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/JanBanasik/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/JanBanasik/Leetcode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/JanBanasik/Leetcode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/JanBanasik/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/JanBanasik/Leetcode/tree/master/0041-first-missing-positive) |
 | [0051-n-queens](https://github.com/JanBanasik/Leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/JanBanasik/Leetcode/tree/master/0054-spiral-matrix) |
@@ -831,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/JanBanasik/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JanBanasik/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0794-swim-in-rising-water](https://github.com/JanBanasik/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/JanBanasik/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
