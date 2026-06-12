@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/JanBanasik/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/JanBanasik/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/JanBanasik/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/JanBanasik/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/JanBanasik/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/JanBanasik/Leetcode/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/JanBanasik/Leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/JanBanasik/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3321-type-of-triangle](https://github.com/JanBanasik/Leetcode/tree/master/3321-type-of-triangle) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/JanBanasik/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/JanBanasik/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/JanBanasik/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/JanBanasik/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/JanBanasik/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -593,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/JanBanasik/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/JanBanasik/Leetcode/tree/master/3394-minimum-array-end) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/JanBanasik/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/JanBanasik/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/JanBanasik/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/JanBanasik/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Enumeration
@@ -668,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2872-maximum-number-of-k-divisible-components](https://github.com/JanBanasik/Leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/JanBanasik/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/JanBanasik/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/JanBanasik/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/JanBanasik/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/JanBanasik/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/JanBanasik/Leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -748,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2872-maximum-number-of-k-divisible-components](https://github.com/JanBanasik/Leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/JanBanasik/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/JanBanasik/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/JanBanasik/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/JanBanasik/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/JanBanasik/Leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/JanBanasik/Leetcode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -790,6 +795,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/JanBanasik/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/JanBanasik/Leetcode/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/JanBanasik/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/JanBanasik/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/JanBanasik/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/JanBanasik/Leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/JanBanasik/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
