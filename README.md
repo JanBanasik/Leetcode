@@ -529,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/JanBanasik/Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1018-largest-perimeter-triangle](https://github.com/JanBanasik/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1266-minimum-time-visiting-all-points](https://github.com/JanBanasik/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/JanBanasik/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/JanBanasik/Leetcode/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/JanBanasik/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/JanBanasik/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
