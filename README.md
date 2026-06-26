@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/JanBanasik/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/JanBanasik/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/JanBanasik/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/JanBanasik/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/JanBanasik/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/JanBanasik/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/JanBanasik/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/JanBanasik/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/JanBanasik/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3678-design-task-manager](https://github.com/JanBanasik/Leetcode/tree/master/3678-design-task-manager) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/JanBanasik/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3797-design-spreadsheet](https://github.com/JanBanasik/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3863-power-grid-maintenance](https://github.com/JanBanasik/Leetcode/tree/master/3863-power-grid-maintenance) |
 ## Two Pointers
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3639-zero-array-transformation-i](https://github.com/JanBanasik/Leetcode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/JanBanasik/Leetcode/tree/master/3647-zero-array-transformation-iii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/JanBanasik/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/JanBanasik/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/JanBanasik/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Sliding Window
 |  |
@@ -973,6 +976,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/JanBanasik/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/JanBanasik/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/JanBanasik/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Rolling Hash
 |  |
@@ -1017,6 +1021,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/JanBanasik/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/JanBanasik/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/JanBanasik/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -1046,4 +1051,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/JanBanasik/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+## Merge Sort
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/JanBanasik/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
