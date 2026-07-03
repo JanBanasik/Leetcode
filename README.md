@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/JanBanasik/Leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/JanBanasik/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3606-coupon-code-validator](https://github.com/JanBanasik/Leetcode/tree/master/3606-coupon-code-validator) |
+| [3620-network-recovery-pathways](https://github.com/JanBanasik/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/JanBanasik/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/JanBanasik/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/JanBanasik/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/JanBanasik/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/JanBanasik/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/JanBanasik/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3620-network-recovery-pathways](https://github.com/JanBanasik/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/JanBanasik/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/JanBanasik/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/JanBanasik/Leetcode/tree/master/3647-zero-array-transformation-iii) |
@@ -825,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/JanBanasik/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/JanBanasik/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/JanBanasik/Leetcode/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
+| [3620-network-recovery-pathways](https://github.com/JanBanasik/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/JanBanasik/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/JanBanasik/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/JanBanasik/Leetcode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -901,6 +904,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-special-array-ii](https://github.com/JanBanasik/Leetcode/tree/master/3427-special-array-ii) |
 | [3453-separate-squares-i](https://github.com/JanBanasik/Leetcode/tree/master/3453-separate-squares-i) |
 | [3488-closest-equal-element-queries](https://github.com/JanBanasik/Leetcode/tree/master/3488-closest-equal-element-queries) |
+| [3620-network-recovery-pathways](https://github.com/JanBanasik/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/JanBanasik/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## String Matching
 |  |
@@ -974,6 +978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/JanBanasik/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/JanBanasik/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/JanBanasik/Leetcode/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/JanBanasik/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/JanBanasik/Leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/JanBanasik/Leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Ordered Set
@@ -1019,6 +1024,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-course-schedule-iv](https://github.com/JanBanasik/Leetcode/tree/master/1558-course-schedule-iv) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/JanBanasik/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/JanBanasik/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+| [3620-network-recovery-pathways](https://github.com/JanBanasik/Leetcode/tree/master/3620-network-recovery-pathways) |
 ## Union Find
 |  |
 | ------- |
@@ -1072,4 +1078,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/JanBanasik/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/JanBanasik/Leetcode/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
