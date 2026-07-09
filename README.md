@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3488-closest-equal-element-queries](https://github.com/JanBanasik/Leetcode/tree/master/3488-closest-equal-element-queries) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/JanBanasik/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/JanBanasik/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/JanBanasik/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/JanBanasik/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/JanBanasik/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/JanBanasik/Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/JanBanasik/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/JanBanasik/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3488-closest-equal-element-queries](https://github.com/JanBanasik/Leetcode/tree/master/3488-closest-equal-element-queries) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/JanBanasik/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/JanBanasik/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/JanBanasik/Leetcode/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3606-coupon-code-validator](https://github.com/JanBanasik/Leetcode/tree/master/3606-coupon-code-validator) |
@@ -909,6 +911,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-special-array-ii](https://github.com/JanBanasik/Leetcode/tree/master/3427-special-array-ii) |
 | [3453-separate-squares-i](https://github.com/JanBanasik/Leetcode/tree/master/3453-separate-squares-i) |
 | [3488-closest-equal-element-queries](https://github.com/JanBanasik/Leetcode/tree/master/3488-closest-equal-element-queries) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/JanBanasik/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/JanBanasik/Leetcode/tree/master/3620-network-recovery-pathways) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/JanBanasik/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## String Matching
@@ -1076,6 +1079,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/JanBanasik/Leetcode/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/JanBanasik/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JanBanasik/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/JanBanasik/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Counting Sort
 |  |
 | ------- |
@@ -1088,5 +1092,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/JanBanasik/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/JanBanasik/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/JanBanasik/Leetcode/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
