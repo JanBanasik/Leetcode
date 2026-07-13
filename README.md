@@ -632,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/JanBanasik/Leetcode/tree/master/1291-sequential-digits) |
 | [1925-count-square-sum-triples](https://github.com/JanBanasik/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/JanBanasik/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/JanBanasik/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
