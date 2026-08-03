@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/JanBanasik/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1390-four-divisors](https://github.com/JanBanasik/Leetcode/tree/master/1390-four-divisors) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/JanBanasik/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1406-stone-game-iii](https://github.com/JanBanasik/Leetcode/tree/master/1406-stone-game-iii) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/JanBanasik/Leetcode/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/JanBanasik/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/JanBanasik/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -562,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1266-minimum-time-visiting-all-points](https://github.com/JanBanasik/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/JanBanasik/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/JanBanasik/Leetcode/tree/master/1390-four-divisors) |
+| [1406-stone-game-iii](https://github.com/JanBanasik/Leetcode/tree/master/1406-stone-game-iii) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/JanBanasik/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/JanBanasik/Leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/JanBanasik/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -821,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/JanBanasik/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/JanBanasik/Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/JanBanasik/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1406-stone-game-iii](https://github.com/JanBanasik/Leetcode/tree/master/1406-stone-game-iii) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/JanBanasik/Leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1628-count-submatrices-with-all-ones](https://github.com/JanBanasik/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/JanBanasik/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -1108,4 +1111,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/JanBanasik/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/JanBanasik/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/JanBanasik/Leetcode/tree/master/3620-network-recovery-pathways) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/JanBanasik/Leetcode/tree/master/1406-stone-game-iii) |
+## Game Theory
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/JanBanasik/Leetcode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/JanBanasik/Leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
