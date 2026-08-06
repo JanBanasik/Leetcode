@@ -582,6 +582,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/JanBanasik/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/JanBanasik/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3321-type-of-triangle](https://github.com/JanBanasik/Leetcode/tree/master/3321-type-of-triangle) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/JanBanasik/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/JanBanasik/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/JanBanasik/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/JanBanasik/Leetcode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -648,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/JanBanasik/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3201-distribute-candies-among-children-ii](https://github.com/JanBanasik/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/JanBanasik/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/JanBanasik/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/JanBanasik/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/JanBanasik/Leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/JanBanasik/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
