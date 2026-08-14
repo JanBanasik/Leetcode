@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/JanBanasik/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JanBanasik/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/JanBanasik/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/JanBanasik/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/JanBanasik/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/JanBanasik/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/JanBanasik/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/JanBanasik/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/JanBanasik/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JanBanasik/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/JanBanasik/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/JanBanasik/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/JanBanasik/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/JanBanasik/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/JanBanasik/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/JanBanasik/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/JanBanasik/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/JanBanasik/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/JanBanasik/Leetcode/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/JanBanasik/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/JanBanasik/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
