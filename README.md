@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/JanBanasik/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/JanBanasik/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/JanBanasik/Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/JanBanasik/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/JanBanasik/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/JanBanasik/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/JanBanasik/Leetcode/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2649-count-total-number-of-colored-cells](https://github.com/JanBanasik/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/JanBanasik/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/JanBanasik/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/JanBanasik/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/JanBanasik/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/JanBanasik/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/JanBanasik/Leetcode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -645,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2509-minimize-xor](https://github.com/JanBanasik/Leetcode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/JanBanasik/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/JanBanasik/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/JanBanasik/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3291-find-if-array-can-be-sorted](https://github.com/JanBanasik/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/JanBanasik/Leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/JanBanasik/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -937,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2716-prime-subtraction-operation](https://github.com/JanBanasik/Leetcode/tree/master/2716-prime-subtraction-operation) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JanBanasik/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/JanBanasik/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/JanBanasik/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/JanBanasik/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/JanBanasik/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/JanBanasik/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
@@ -971,6 +975,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/JanBanasik/Leetcode/tree/master/2716-prime-subtraction-operation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/JanBanasik/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/JanBanasik/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/JanBanasik/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Monotonic Stack
@@ -1090,6 +1095,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/JanBanasik/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3201-distribute-candies-among-children-ii](https://github.com/JanBanasik/Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/JanBanasik/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/JanBanasik/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
