@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/JanBanasik/Leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/JanBanasik/Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/JanBanasik/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
+| [1927-sum-game](https://github.com/JanBanasik/Leetcode/tree/master/1927-sum-game) |
 | [1975-maximum-matrix-sum](https://github.com/JanBanasik/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [2089-maximum-matrix-sum](https://github.com/JanBanasik/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2126-destroying-asteroids](https://github.com/JanBanasik/Leetcode/tree/master/2126-destroying-asteroids) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/JanBanasik/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/JanBanasik/Leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/JanBanasik/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1927-sum-game](https://github.com/JanBanasik/Leetcode/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/JanBanasik/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/JanBanasik/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/JanBanasik/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -583,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1817-calculate-money-in-leetcode-bank](https://github.com/JanBanasik/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/JanBanasik/Leetcode/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1925-count-square-sum-triples](https://github.com/JanBanasik/Leetcode/tree/master/1925-count-square-sum-triples) |
+| [1927-sum-game](https://github.com/JanBanasik/Leetcode/tree/master/1927-sum-game) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/JanBanasik/Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/JanBanasik/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/JanBanasik/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -1149,6 +1152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1406-stone-game-iii](https://github.com/JanBanasik/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/JanBanasik/Leetcode/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/JanBanasik/Leetcode/tree/master/1927-sum-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
