@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/JanBanasik/Leetcode/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/JanBanasik/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/JanBanasik/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/JanBanasik/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/JanBanasik/Leetcode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/JanBanasik/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/JanBanasik/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/JanBanasik/Leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/JanBanasik/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3678-design-task-manager](https://github.com/JanBanasik/Leetcode/tree/master/3678-design-task-manager) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/JanBanasik/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/JanBanasik/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3797-design-spreadsheet](https://github.com/JanBanasik/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3863-power-grid-maintenance](https://github.com/JanBanasik/Leetcode/tree/master/3863-power-grid-maintenance) |
