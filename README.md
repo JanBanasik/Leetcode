@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/JanBanasik/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/JanBanasik/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/JanBanasik/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/JanBanasik/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Greedy
 |  |
 | ------- |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-coupon-code-validator](https://github.com/JanBanasik/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/JanBanasik/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/JanBanasik/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/JanBanasik/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/JanBanasik/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/JanBanasik/Leetcode/tree/master/3797-design-spreadsheet) |
 | [3838-weighted-word-mapping](https://github.com/JanBanasik/Leetcode/tree/master/3838-weighted-word-mapping) |
@@ -678,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/JanBanasik/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/JanBanasik/Leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/JanBanasik/Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/JanBanasik/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/JanBanasik/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Recursion
 |  |
