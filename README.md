@@ -510,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/JanBanasik/Leetcode/tree/master/0038-count-and-say) |
+| [0115-distinct-subsequences](https://github.com/JanBanasik/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0165-compare-version-numbers](https://github.com/JanBanasik/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/JanBanasik/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0399-evaluate-division](https://github.com/JanBanasik/Leetcode/tree/master/0399-evaluate-division) |
@@ -847,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/JanBanasik/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/JanBanasik/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/JanBanasik/Leetcode/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/JanBanasik/Leetcode/tree/master/0198-house-robber) |
 | [0474-ones-and-zeroes](https://github.com/JanBanasik/Leetcode/tree/master/0474-ones-and-zeroes) |
