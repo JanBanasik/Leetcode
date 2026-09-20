@@ -574,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3451-string-compression-iii](https://github.com/JanBanasik/Leetcode/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/JanBanasik/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/JanBanasik/Leetcode/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3498-reverse-degree-of-a-string](https://github.com/JanBanasik/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/JanBanasik/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/JanBanasik/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3606-coupon-code-validator](https://github.com/JanBanasik/Leetcode/tree/master/3606-coupon-code-validator) |
@@ -723,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/JanBanasik/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/JanBanasik/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/JanBanasik/Leetcode/tree/master/3447-clear-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/JanBanasik/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/JanBanasik/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/JanBanasik/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/JanBanasik/Leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
