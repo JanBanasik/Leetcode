@@ -519,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/JanBanasik/Leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/JanBanasik/Leetcode/tree/master/0038-count-and-say) |
 | [0115-distinct-subsequences](https://github.com/JanBanasik/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0165-compare-version-numbers](https://github.com/JanBanasik/Leetcode/tree/master/0165-compare-version-numbers) |
@@ -654,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/JanBanasik/Leetcode/tree/master/0022-generate-parentheses) |
 | [0051-n-queens](https://github.com/JanBanasik/Leetcode/tree/master/0051-n-queens) |
 | [0401-binary-watch](https://github.com/JanBanasik/Leetcode/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/JanBanasik/Leetcode/tree/master/0756-pyramid-transition-matrix) |
@@ -870,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/JanBanasik/Leetcode/tree/master/0022-generate-parentheses) |
 | [0085-maximal-rectangle](https://github.com/JanBanasik/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/JanBanasik/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/JanBanasik/Leetcode/tree/master/0120-triangle) |
@@ -1208,5 +1211,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/JanBanasik/Leetcode/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/JanBanasik/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
