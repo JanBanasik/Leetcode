@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/JanBanasik/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/JanBanasik/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/JanBanasik/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/JanBanasik/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2915-count-of-interesting-subarrays](https://github.com/JanBanasik/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/JanBanasik/Leetcode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JanBanasik/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/JanBanasik/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/JanBanasik/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/JanBanasik/Leetcode/tree/master/2784-check-if-array-is-good) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/JanBanasik/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2915-count-of-interesting-subarrays](https://github.com/JanBanasik/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/JanBanasik/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/JanBanasik/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -1093,10 +1095,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/JanBanasik/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/JanBanasik/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/JanBanasik/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/JanBanasik/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/JanBanasik/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/JanBanasik/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
