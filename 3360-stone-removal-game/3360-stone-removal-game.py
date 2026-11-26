@@ -1,8 +1,9 @@
 class Solution:
     def canAliceWin(self, n: int) -> bool:
-        curr_stones: int = 10
-        while n >= 0:
-            if n < curr_stones:
-                return bool(curr_stones % 2)
-            n -= curr_stones
-            curr_stones -=1
+        stones = 10
+
+        while n >= stones:
+            n -= stones
+            stones -= 1
+
+        return stones % 2 == 1
